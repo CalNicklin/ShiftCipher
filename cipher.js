@@ -68,7 +68,7 @@ class ShiftCipher {
 // end decrypt function.
 }
 
-const shiftOfTwo = new ShiftCipher(11);
+const shiftOfTwo = new ShiftCipher(2);
 
 
 
